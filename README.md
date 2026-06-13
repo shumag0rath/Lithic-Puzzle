@@ -1,5 +1,4 @@
 # Lithic-Puzzle
-Application for Lithic
 
 To find the hidden challenge, I initially used the "Inspect" function within Chrome and spent some time doing basic Ctrl+F searches through the HTML, looking for obvious strings in the console.
 
